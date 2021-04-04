@@ -51,4 +51,5 @@ Responsive Photo Gallery website based on PHP, HTML, CSS, bootstrap, JS.
   <h4> JSON </h4>
   <h4> Drag&Drop </h4>
 </details>
+<br>
 Created by TM
