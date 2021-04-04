@@ -1,7 +1,7 @@
 # PhotoGallery
 Responsive Photo Gallery website based on PHP, HTML, CSS, bootstrap, JS.
 
-## Screenshots
+## Screenshots and Functionalities
 <details><summary>Show</summary>
   <h3 align="center"> Interactive Main Page </h3>
   <p align="center">
